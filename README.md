@@ -1,2 +1,2 @@
-# Mmmm-Burger
-Restaurant App
+# Responsive-Portfolio
+Assignment 2-2
