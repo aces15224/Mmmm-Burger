@@ -6,7 +6,6 @@
   margin-top: 10px;
 }
 
-
 #newburger {
   border-radius: 5px;
 }
@@ -14,6 +13,7 @@
 #color-override{
   color:red;
 }
+
 #color-override1 {
   color: #fff;
 }
